@@ -5,9 +5,15 @@ This GitHub repository contains code for building a decision tree classifier to 
 
 ### Key Features:
 
-### Data Preprocessing: The code preprocesses the dataset, handling missing values and one-hot encoding categorical features.
-### Model Building: It uses the scikit-learn library to create a Decision Tree Classifier.
-### Hyperparameter Tuning: GridSearchCV is employed to find the best hyperparameters for the model.
-### Cross-Validation: The model's performance is assessed through cross-validation.
-### Model Evaluation: The accuracy and a classification report are provided to evaluate the model's performance.
-### Decision Tree Visualization: The code includes a visualization of the decision tree with improved settings.
+### Data Preprocessing: 
+The code preprocesses the dataset, handling missing values and one-hot encoding categorical features.
+### Model Building: 
+It uses the scikit-learn library to create a Decision Tree Classifier.
+### Hyperparameter Tuning: 
+GridSearchCV is employed to find the best hyperparameters for the model.
+### Cross-Validation: 
+The model's performance is assessed through cross-validation.
+### Model Evaluation: 
+The accuracy and a classification report are provided to evaluate the model's performance.
+### Decision Tree Visualization: 
+The code includes a visualization of the decision tree with improved settings.
